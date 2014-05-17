@@ -1,4 +1,6 @@
 barcode-reader
 ==============
 
-Simple barcode reader implemented in Processing.
+Barcode reader implemented in Processing.
+
+Works on EAN-13 barcodes.
